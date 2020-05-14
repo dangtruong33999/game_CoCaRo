@@ -1,1 +1,10 @@
 D:\WinForm\game_Caro\game_Caro\bin\Debug\game_Caro.exe.config
+D:\Project\C#\[Git]TruongDang\game_CoCaRo\game_Caro\bin\Debug\game_Caro.exe.config
+D:\Project\C#\[Git]TruongDang\game_CoCaRo\game_Caro\bin\Debug\game_Caro.exe
+D:\Project\C#\[Git]TruongDang\game_CoCaRo\game_Caro\bin\Debug\game_Caro.pdb
+D:\Project\C#\[Git]TruongDang\game_CoCaRo\game_Caro\obj\Debug\game_Caro.csprojResolveAssemblyReference.cache
+D:\Project\C#\[Git]TruongDang\game_CoCaRo\game_Caro\obj\Debug\game_Caro.Form1.resources
+D:\Project\C#\[Git]TruongDang\game_CoCaRo\game_Caro\obj\Debug\game_Caro.Properties.Resources.resources
+D:\Project\C#\[Git]TruongDang\game_CoCaRo\game_Caro\obj\Debug\game_Caro.csproj.GenerateResource.Cache
+D:\Project\C#\[Git]TruongDang\game_CoCaRo\game_Caro\obj\Debug\game_Caro.exe
+D:\Project\C#\[Git]TruongDang\game_CoCaRo\game_Caro\obj\Debug\game_Caro.pdb
